@@ -1,5 +1,4 @@
 ;
-; CS1022 Introduction to Computing II 2018/2019
 ; Chess Clock
 ;
 
